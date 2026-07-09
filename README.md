@@ -41,7 +41,7 @@ Este repositório reúne meus estudos, práticas e projetos na área de Dados. O
 ## 🌐 Contato
 
 - 🐙 **GitHub:** @pabmors
-- 📊 **Kaggle:** 
+- 📊 **Kaggle:** @pachbr
 
 ---
 
